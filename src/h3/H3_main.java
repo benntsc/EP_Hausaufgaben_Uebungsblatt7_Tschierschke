@@ -1,11 +1,11 @@
-package h1;
+package h3;
 
-public class H1_main {
+public class H3_main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-	}
+	
+	}	
 }
 
 
